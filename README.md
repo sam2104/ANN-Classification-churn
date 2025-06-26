@@ -7,7 +7,7 @@ A Streamlit app that predicts customer churn using a trained ANN model (TensorFl
 pip install -r requirements.txt
 streamlit run app.py
 
-# Estimated Salary Predictor
+### Estimated Salary Predictor
 A Streamlit app that predicts customer churn using a trained ANN model (TensorFlow/Keras).
 
 ## Run Locally
